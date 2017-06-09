@@ -1,0 +1,4 @@
+/.cvsignore////*///
+/AssemblyInfo.cs////*///
+/MiniTest.csproj////*///
+/SerialPortTests.cs////*///

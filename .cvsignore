@@ -1,0 +1,6 @@
+bin
+obj
+*.user
+*.suo
+NewSerialPort.csproj
+SerialPort_Rewrite.sln
